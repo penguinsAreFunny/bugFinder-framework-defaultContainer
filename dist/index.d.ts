@@ -1,4 +1,5 @@
 import { Container } from "inversify";
+export declare const sharedContainer: Container;
 export declare const localityAContainer: Container;
 export declare const localityBContainer: Container;
 export declare const quantifierContainer: Container;
