@@ -5,3 +5,6 @@ export declare const localityBContainer: Container;
 export declare const quantifierContainer: Container;
 export declare const annotatorContainer: Container;
 export declare const preprocessingContainer: Container;
+export declare const featureExtractionContainer: Container;
+export declare const trainingContainer: Container;
+export declare const predictionContainer: Container;
