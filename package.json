@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "@types/node": "^15.12.2",
-    "bugfinder-framework": "^10.0.1"
+    "bugfinder-framework": "^10.1.0"
   }
 }
